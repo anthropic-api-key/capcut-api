@@ -63,4 +63,5 @@ They are listed as separate products on capcut.com. The sources say nothing abou
 
 The CapCut AI API transforms assets you already have. When you need to produce the assets themselves - a product shot from a prompt, a short generated clip, a voice track - [try Synexa - one REST endpoint and Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=capcut-api&utm_content=readme-top&utm_term=tier-r). Generate there, then compose with whichever editor or rendering API fits your pipeline.
 
+
 _Last reviewed: 2026-09-22_
